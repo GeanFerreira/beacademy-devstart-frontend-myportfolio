@@ -1,5 +1,17 @@
 # beacademy-devstart-frontend-myportfolio
 
- Portifólio de um desenvolver iniciante, qualquer crítica construtiva é bem vinda!
+# Sobre o projeto
+ - criando uma variedade de projetos para conhecimento.
 
-Logo a continuação desse projeto.
+# Tecnologias utilizadas
+## Front end
+- HTML / CSS / JS
+- estarei terminando esse primeiro projeto, incluindo CSS + JS
+
+
+# Autor
+
+Gean Marcel Ferreira
+
+https://www.linkedin.com/in/ferreiragean
+
