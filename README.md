@@ -9,9 +9,9 @@
 - <strong>HTML:</strong> conceitos básicos ao avançado, no qual foi utilizado semântica do HLML5, criando alguns motores de buca com a meta tags e divindo o body com header, main, footer bem como, as suas div e class.
 - <strong>CSS</strong> dividido em quatro arquivos: <br>
  <em>Pattern (padrão):</em> como o próprio nome diz, toda a estilização da página em si. <br>
- <em>Reset:</em> com a inconsistência dos navegadores em não ter o mesmo comportamento em exibir ou renderizar elementos, foi adotado o padrão do Reset. Um reset muito conhecido, normalize.css, segue o link para quem tiver interesse: https://necolas.github.io/normalize.css/ <br>
+ <em>Reset:</em> com a inconsistência dos navegadores em não ter o mesmo comportamento em exibir ou renderizar elementos, foi adotado o padrão do Reset. Um reset muito conhecido, normalize.css, segue o link para quem tiver interesse: https://necolas.github.io/normalize.css/, caso tenham interesse em utilizar um reset. <br>
  <em>Responsive:</em> a responsividade em adaptar a tela, seja o usuário utilizando desktop, notebook, tablet ou mobile. <br>
- <em>Style:</em> Estilização da página dividido sequencialmente.
+ <em>Style:</em> estilização da página dividido sequencialmente.
 - <strong>JavaScript:</strong> adicionado para revelar elementos quando utilizamos o scroll do mouse para baixa ou para cima.
 
 
